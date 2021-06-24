@@ -1219,7 +1219,7 @@ padding: 10px;
 }
 .btn-outline-secondary{
   position: absolute;
-  top:85%;
+  top:86%;
   left:50%;
   bottom: 13%, imp !important;
   transform: translate(-50%,0);
